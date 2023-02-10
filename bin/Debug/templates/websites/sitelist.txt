@@ -1,0 +1,8 @@
+Violet Wave,01-violetwave.jpg,templates\websites\01
+Watercolors,02-watercolor.jpg,templates\websites\02
+White Glowing,03-whiteglowing.jpg,templates\websites\03
+Marble,04-marble.jpg,templates\websites\04
+Office Template,05-office.jpg,templates\websites\05
+Earth Map,06-earthmap.jpg,templates\websites\06
+Travel Shop,07-travels.jpg,templates\websites\07
+Computer Shop,08-pcshop.jpg,templates\websites\08

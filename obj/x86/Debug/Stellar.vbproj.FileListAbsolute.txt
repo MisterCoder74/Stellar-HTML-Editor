@@ -1,0 +1,81 @@
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\bin\Debug\Stellar.exe
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\bin\Debug\Stellar.pdb
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\bin\Debug\Stellar.xml
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.vbprojResolveAssemblyReference.cache
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Main.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Resources.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.vbproj.GenerateResource.Cache
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.exe
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.xml
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.pdb
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.imageadd.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.listcreator.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.tableadd.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.formcreator.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.colorcharts.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.replace.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.linkadd.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.about.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.templatebrowser.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.iframecreator.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.dll
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.pdb
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.xml
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Fontwizard.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.bscolorclasses.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.websites.resources
+G:\temp tecnologie ambientali\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.datalistcreator.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.exe
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.xml
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.pdb
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\Stellar.exe
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\Stellar.pdb
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\Stellar.xml
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.dll
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.pdb
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.xml
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.vbprojResolveAssemblyReference.cache
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.about.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.bscolorclasses.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.colorcharts.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.datalistcreator.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Fontwizard.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.formcreator.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.iframecreator.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.imageadd.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.linkadd.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.listcreator.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Main.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Resources.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.replace.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.tableadd.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.templatebrowser.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.websites.resources
+G:\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.vbproj.GenerateResource.Cache
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.exe
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.xml
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.pdb
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\Stellar.exe
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\Stellar.pdb
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\Stellar.xml
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.dll
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.pdb
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\bin\Debug\RoundedGroupbox.xml
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.vbprojResolveAssemblyReference.cache
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.about.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.bscolorclasses.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.colorcharts.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.datalistcreator.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Fontwizard.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.formcreator.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.iframecreator.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.imageadd.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.linkadd.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.listcreator.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Main.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.Resources.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.replace.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.tableadd.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.templatebrowser.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.websites.resources
+C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.vbproj.GenerateResource.Cache

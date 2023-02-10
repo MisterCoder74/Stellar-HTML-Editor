@@ -1,0 +1,23 @@
+STELLAR HTML EDITOR 
+What's new file.
+v.1.7 - September 2022
+
+
+New features:
+- 
+
+
+Major changes:
+- More HTML buttons added (section, main, aside)
+- More CSS peudo added (:nth-child, )
+
+Minor changes:
+- Minor GUI changes
+
+Minor bugs solved:
+- Save as in blank page error
+- Exit without saving error
+
+
+
+

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RoundedGroupbox
+</name>
+</assembly>
+<members>
+<member name="P:RoundedGroupbox.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RoundedGroupbox.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:RoundedGroupbox.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:RoundedGroupbox.RoundedGroupBox.GroupBoxGradientMode.None">
+	<summary>Specifies no gradient mode.</summary>
+</member><member name="F:RoundedGroupbox.RoundedGroupBox.GroupBoxGradientMode.BackwardDiagonal">
+	<summary>Specifies a gradient from upper right to lower left.</summary>
+</member><member name="F:RoundedGroupbox.RoundedGroupBox.GroupBoxGradientMode.ForwardDiagonal">
+	<summary>Specifies a gradient from upper left to lower right.</summary>
+</member><member name="F:RoundedGroupbox.RoundedGroupBox.GroupBoxGradientMode.Horizontal">
+	<summary>Specifies a gradient from left to right.</summary>
+</member><member name="F:RoundedGroupbox.RoundedGroupBox.GroupBoxGradientMode.Vertical">
+	<summary>Specifies a gradient from top to bottom.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.CornerRadius">
+	<summary>Gets or sets the radius of the corners of the control.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.DropShadowVisible">
+	<summary>Turns on or off the control shadowing.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.BorderColor">
+	<summary>Gets or sets the color of the control's border.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.BorderWidth">
+	<summary>Gets or Sets the control's border size.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.DropShadowThickness">
+	<summary>Gets or sets the size of the shadow border thickness.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.BackgroundColor">
+	<summary>Gets or sets the background color to use. This color can also be used in combination with BackgroundColorGradient for a gradient paint.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.BackgroundColorGradient">
+	<summary>Specifies the second color when using the gradient mode.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.BackgroundGradientMode">
+	<summary>This property secifies the type of gradient to use when painting the background.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.CaptionBackColor">
+	<summary>Specifies teh background color for the caption bar.</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.Caption">
+	<summary>The text to diplay in the caption bar</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.Corners">
+	<summary>Specifies which corners to apply rounding for</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.CaptionVisible">
+	<summary>Turns on or off the Caption Bar</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.CaptionHeight">
+	<summary>Gets or sets the height of the caption bar</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.CaptionAlignment">
+	<summary>Gets or sets the alignment of the caption text</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.CaptionOrientation">
+	<summary>Gets or sets the orientation of the Caption</summary>
+</member><member name="P:RoundedGroupbox.RoundedGroupBox.CaptionPadding">
+	<summary>Gets or sets the Padding for the Caption</summary>
+</member>
+</members>
+</doc>

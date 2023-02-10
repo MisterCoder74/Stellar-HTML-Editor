@@ -1,0 +1,179 @@
+<!-- base HTML5 template -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Watercolor Template</title>
+<meta name="description" content="A simple HTML5 Template for new projects.">
+<meta name="author" content="SitePoint">
+<meta property="og:title" content="A Basic HTML5 Template">
+<meta property="og:type" content="website">
+<meta property="og:url" content=" ">
+<meta property="og:description" content="A simple HTML5 Template for new projects.">
+<meta property="og:image" content="image.png">
+<!-- Create your favicon at https://www.favicon.cc/ ... -->
+<link rel="icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<!-- Change to jour CSS directory ... -->
+<link rel="stylesheet" href="css/styles.css">
+
+<!-- Top navigation bar to be used in pair with "html5_top navigator bar CSS" snippet... -->
+<!-- Put this code in your HEAD section... -->
+<style>
+
+body{
+background-image: url("watercolor-arte.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:100% 100%; 
+}
+
+
+.hovernav-bar {
+  width: 100%; /* Full-width - reduce if you want it shorter */
+  overflow: auto; /* Overflow due to float */
+ border: 1px solid black;
+}
+
+.hovernav-bar a {
+  float: left; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  width: 25%; /* Equal width (5 icons with 20% width each = 100%) */
+  padding: 10px 0; /* Some top and bottom padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color: black; /* White text color */
+  font-size: 36px; /* Increased font size */
+  text-decoration: none; /* Removes underlining fro link text*/
+ text-shadow: 2px 2px 5px grey;
+}
+
+.hovernav-bar a:hover {
+  background-color: #000; /* Add a hover color */
+color: white; /* White text color */
+ text-shadow: 2px 2px 5px grey;
+}
+
+.active {
+  background-color: #3299ad; /* Add an active/current color */
+}
+
+.leftDiv
+    {
+      border: 2px solid black;
+      border-radius: 25px;
+      width:300px;
+      height:200px;
+      position: fixed;
+      background-color: transparent;
+      top: 35%;
+      left: 20%;
+      margin-top: -100px;
+      margin-left: -100px;
+      box-shadow: 4px 4px 5px grey;
+      padding: 10px;
+    }
+
+.rightDiv
+    {
+      border: 2px solid black;
+      border-radius: 25px;
+      width:300px;
+      height:200px;
+      position: fixed;
+      background-color: transparent;
+      top: 35%;
+      left: 70%;
+      margin-top: -100px;
+      margin-left: -100px;
+      box-shadow: 4px 4px 5px grey;
+      padding: 10px;
+    }
+
+.centerDiv
+    {
+      border: 2px solid black;
+      border-radius: 20px;
+      width:1060px;
+      height:200px;
+      position: fixed;
+      background-color: transparent;
+      top: 70%;
+      left: 20%;
+      margin-top: -100px;
+      margin-left: -100px;
+      box-shadow: 5px 5px 5px 5px grey;
+      padding: 10px;
+    }
+
+.centerImage
+    {
+      border: 1px solid black;
+      border-radius: 20px;
+      width:360px;
+      height:200px;
+      position: fixed;
+      background-color: transparent;
+      top: 35%;
+      left: 43%;
+      margin-top: -100px;
+      margin-left: -100px;
+      box-shadow: 5px 5px 5px 5px grey;
+      padding: 10px;
+    }
+
+h3 {
+text-shadow: 2px 2px 5px grey;
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+<!-- Top fullwidth navigation bar to be used in pair with "CSS_top navigator bar" snippet... -->
+<!-- Put this code in your BODY section... -->
+<div class="hovernav-bar">
+<a class="active" href="#"><i class="fa fa-home">Homepage</i></a>
+<a href="#"> page 1 </a>
+<a href="#"> page 2 </a>
+<a href="#"> page 3 </a>
+</div>
+
+<p>
+</p>
+<div class="leftDiv">
+<b>Title here</b><br>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</div>
+
+<div class="centerDiv">
+<center>
+<h1> Title here </h1>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</center>
+</div>
+
+<div class="centerImage">
+<center>
+<img src="coollogo_com-205222178.png">
+<br>
+<h3>Site slogan or other text</h3>
+</center>
+</div>
+
+<div class="rightDiv">
+<b>Title here</b><br>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</div>
+
+<!-- your content here... -->
+
+<!-- Change to jour .js directory ... -->
+<script src="js/scripts.js"></script>
+
+</body>
+</html>
