@@ -118,6 +118,8 @@ Partial Class Main
         Me.TYPEDefinitionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.JSFunctionsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.JavascriptTemplatesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator12 = New System.Windows.Forms.ToolStripSeparator()
+        Me.VieJSToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PHPSnippetsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PHPSnippetsToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.CGISnippetsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -188,6 +190,7 @@ Partial Class Main
         Me.FontDialog1 = New System.Windows.Forms.FontDialog()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
         Me.Button36 = New System.Windows.Forms.Button()
+        Me.Button43 = New System.Windows.Forms.Button()
         Me.Button35 = New System.Windows.Forms.Button()
         Me.Button34 = New System.Windows.Forms.Button()
         Me.Button33 = New System.Windows.Forms.Button()
@@ -206,9 +209,8 @@ Partial Class Main
         Me.Button39 = New System.Windows.Forms.Button()
         Me.Button38 = New System.Windows.Forms.Button()
         Me.Button37 = New System.Windows.Forms.Button()
-        Me.Button43 = New System.Windows.Forms.Button()
-        Me.ToolStripSeparator12 = New System.Windows.Forms.ToolStripSeparator()
-        Me.VieJSToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator13 = New System.Windows.Forms.ToolStripSeparator()
+        Me.MicroblogSystemToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.StatusStrip1.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
@@ -225,6 +227,7 @@ Partial Class Main
         '
         'MenuStrip1
         '
+        Me.MenuStrip1.BackColor = System.Drawing.Color.Transparent
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileToolStripMenuItem, Me.EditToolStripMenuItem, Me.ToolsToolStripMenuItem, Me.FormatToolStripMenuItem, Me.ToolStripMenuItem1, Me.BootstrapSnippetsToolStripMenuItem, Me.HTMLSnippetsToolStripMenuItem, Me.CSSTemplatesToolStripMenuItem, Me.JSFunctionsToolStripMenuItem, Me.PHPSnippetsToolStripMenuItem, Me.CGISnippetsToolStripMenuItem, Me.FullWebsitesToolStripMenuItem, Me.HelpToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
@@ -328,7 +331,7 @@ Partial Class Main
         '
         Me.ToolsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ConvertToDOCToolStripMenuItem, Me.IndentCodeToolStripMenuItem, Me.StripAllTagsToolStripMenuItem, Me.ToolStripSeparator1, Me.StartWizardToolStripMenuItem, Me.DatalistWizardToolStripMenuItem, Me.FontWizardToolStripMenuItem, Me.FormWizardToolStripMenuItem, Me.IFrameWizardToolStripMenuItem, Me.ImageWizardToolStripMenuItem, Me.LinkWizardToolStripMenuItem, Me.ListWizardToolStripMenuItem, Me.TableWizardToolStripMenuItem, Me.ToolStripSeparator3, Me.TestFileToolStripMenuItem})
         Me.ToolsToolStripMenuItem.Name = "ToolsToolStripMenuItem"
-        Me.ToolsToolStripMenuItem.Size = New System.Drawing.Size(48, 20)
+        Me.ToolsToolStripMenuItem.Size = New System.Drawing.Size(46, 20)
         Me.ToolsToolStripMenuItem.Text = "Tools"
         '
         'ConvertToDOCToolStripMenuItem
@@ -575,57 +578,57 @@ Partial Class Main
         'FontAndStyleToolStripMenuItem
         '
         Me.FontAndStyleToolStripMenuItem.Name = "FontAndStyleToolStripMenuItem"
-        Me.FontAndStyleToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.FontAndStyleToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
         Me.FontAndStyleToolStripMenuItem.Text = "Font and Size"
         '
         'ToolStripMenuItem2
         '
         Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
-        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(215, 22)
+        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(214, 22)
         Me.ToolStripMenuItem2.Text = "Font color"
         '
         'BackgroundColorToolStripMenuItem
         '
         Me.BackgroundColorToolStripMenuItem.Name = "BackgroundColorToolStripMenuItem"
-        Me.BackgroundColorToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.BackgroundColorToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
         Me.BackgroundColorToolStripMenuItem.Text = "Background color"
         '
         'ToggleURLsDetectionToolStripMenuItem
         '
         Me.ToggleURLsDetectionToolStripMenuItem.Name = "ToggleURLsDetectionToolStripMenuItem"
-        Me.ToggleURLsDetectionToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.ToggleURLsDetectionToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
         Me.ToggleURLsDetectionToolStripMenuItem.Text = "Toggle URLs detection"
         '
         'ZoomSelectionToolStripMenuItem
         '
         Me.ZoomSelectionToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.XToolStripMenuItem, Me.XToolStripMenuItem1, Me.XToolStripMenuItem2})
         Me.ZoomSelectionToolStripMenuItem.Name = "ZoomSelectionToolStripMenuItem"
-        Me.ZoomSelectionToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.ZoomSelectionToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
         Me.ZoomSelectionToolStripMenuItem.Text = "Zoom selection"
         '
         'XToolStripMenuItem
         '
         Me.XToolStripMenuItem.Name = "XToolStripMenuItem"
-        Me.XToolStripMenuItem.Size = New System.Drawing.Size(94, 22)
+        Me.XToolStripMenuItem.Size = New System.Drawing.Size(95, 22)
         Me.XToolStripMenuItem.Text = "2x"
         '
         'XToolStripMenuItem1
         '
         Me.XToolStripMenuItem1.Name = "XToolStripMenuItem1"
-        Me.XToolStripMenuItem1.Size = New System.Drawing.Size(94, 22)
+        Me.XToolStripMenuItem1.Size = New System.Drawing.Size(95, 22)
         Me.XToolStripMenuItem1.Text = "1.5x"
         '
         'XToolStripMenuItem2
         '
         Me.XToolStripMenuItem2.Name = "XToolStripMenuItem2"
-        Me.XToolStripMenuItem2.Size = New System.Drawing.Size(94, 22)
+        Me.XToolStripMenuItem2.Size = New System.Drawing.Size(95, 22)
         Me.XToolStripMenuItem2.Text = "1x"
         '
         'ConvetToToolStripMenuItem
         '
         Me.ConvetToToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LowercaseToolStripMenuItem, Me.UppercaseToolStripMenuItem})
         Me.ConvetToToolStripMenuItem.Name = "ConvetToToolStripMenuItem"
-        Me.ConvetToToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.ConvetToToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
         Me.ConvetToToolStripMenuItem.Text = "Convert to"
         '
         'LowercaseToolStripMenuItem
@@ -643,13 +646,13 @@ Partial Class Main
         'ViewFullscreenToolStripMenuItem
         '
         Me.ViewFullscreenToolStripMenuItem.Name = "ViewFullscreenToolStripMenuItem"
-        Me.ViewFullscreenToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.ViewFullscreenToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
         Me.ViewFullscreenToolStripMenuItem.Text = "View fullscreen"
         '
         'ToggleSyntaxHighlightingToolStripMenuItem
         '
         Me.ToggleSyntaxHighlightingToolStripMenuItem.Name = "ToggleSyntaxHighlightingToolStripMenuItem"
-        Me.ToggleSyntaxHighlightingToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.ToggleSyntaxHighlightingToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
         Me.ToggleSyntaxHighlightingToolStripMenuItem.Text = "Toggle syntax highlighting"
         '
         'BootstrapSnippetsToolStripMenuItem
@@ -662,43 +665,43 @@ Partial Class Main
         'BootstrapTemplatesToolStripMenuItem
         '
         Me.BootstrapTemplatesToolStripMenuItem.Name = "BootstrapTemplatesToolStripMenuItem"
-        Me.BootstrapTemplatesToolStripMenuItem.Size = New System.Drawing.Size(183, 22)
+        Me.BootstrapTemplatesToolStripMenuItem.Size = New System.Drawing.Size(181, 22)
         Me.BootstrapTemplatesToolStripMenuItem.Text = "Bootstrap Templates"
         '
         'ToolStripSeparator8
         '
         Me.ToolStripSeparator8.Name = "ToolStripSeparator8"
-        Me.ToolStripSeparator8.Size = New System.Drawing.Size(180, 6)
+        Me.ToolStripSeparator8.Size = New System.Drawing.Size(178, 6)
         '
         'ColorClassesToolStripMenuItem
         '
         Me.ColorClassesToolStripMenuItem.Name = "ColorClassesToolStripMenuItem"
-        Me.ColorClassesToolStripMenuItem.Size = New System.Drawing.Size(183, 22)
+        Me.ColorClassesToolStripMenuItem.Size = New System.Drawing.Size(181, 22)
         Me.ColorClassesToolStripMenuItem.Text = "Color Classes"
         '
         'HTMLSnippetsToolStripMenuItem
         '
         Me.HTMLSnippetsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.HTMLTemplatesToolStripMenuItem, Me.ToolStripSeparator11, Me.HTML4FramesetToolStripMenuItem, Me.HTML4BouncingTextToolStripMenuItem})
         Me.HTMLSnippetsToolStripMenuItem.Name = "HTMLSnippetsToolStripMenuItem"
-        Me.HTMLSnippetsToolStripMenuItem.Size = New System.Drawing.Size(100, 20)
+        Me.HTMLSnippetsToolStripMenuItem.Size = New System.Drawing.Size(99, 20)
         Me.HTMLSnippetsToolStripMenuItem.Text = "HTML Snippets"
         '
         'HTMLTemplatesToolStripMenuItem
         '
         Me.HTMLTemplatesToolStripMenuItem.Name = "HTMLTemplatesToolStripMenuItem"
-        Me.HTMLTemplatesToolStripMenuItem.Size = New System.Drawing.Size(192, 22)
+        Me.HTMLTemplatesToolStripMenuItem.Size = New System.Drawing.Size(190, 22)
         Me.HTMLTemplatesToolStripMenuItem.Text = "HTML Templates"
         '
         'ToolStripSeparator11
         '
         Me.ToolStripSeparator11.Name = "ToolStripSeparator11"
-        Me.ToolStripSeparator11.Size = New System.Drawing.Size(189, 6)
+        Me.ToolStripSeparator11.Size = New System.Drawing.Size(187, 6)
         '
         'HTML4FramesetToolStripMenuItem
         '
         Me.HTML4FramesetToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.HorizontalcolumnsToolStripMenuItem, Me.HorizontalBorderlesscolumnsToolStripMenuItem, Me.HorizontalwithHeaderToolStripMenuItem, Me.VerticalrowsToolStripMenuItem, Me.VerticalBorderlessrowsToolStripMenuItem})
         Me.HTML4FramesetToolStripMenuItem.Name = "HTML4FramesetToolStripMenuItem"
-        Me.HTML4FramesetToolStripMenuItem.Size = New System.Drawing.Size(192, 22)
+        Me.HTML4FramesetToolStripMenuItem.Size = New System.Drawing.Size(190, 22)
         Me.HTML4FramesetToolStripMenuItem.Text = "HTML4 Frameset"
         '
         'HorizontalcolumnsToolStripMenuItem
@@ -734,7 +737,7 @@ Partial Class Main
         'HTML4BouncingTextToolStripMenuItem
         '
         Me.HTML4BouncingTextToolStripMenuItem.Name = "HTML4BouncingTextToolStripMenuItem"
-        Me.HTML4BouncingTextToolStripMenuItem.Size = New System.Drawing.Size(192, 22)
+        Me.HTML4BouncingTextToolStripMenuItem.Size = New System.Drawing.Size(190, 22)
         Me.HTML4BouncingTextToolStripMenuItem.Text = "HTML4 Bouncing Text"
         '
         'CSSTemplatesToolStripMenuItem
@@ -799,9 +802,20 @@ Partial Class Main
         Me.JavascriptTemplatesToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.JavascriptTemplatesToolStripMenuItem.Text = "JS Snippets"
         '
+        'ToolStripSeparator12
+        '
+        Me.ToolStripSeparator12.Name = "ToolStripSeparator12"
+        Me.ToolStripSeparator12.Size = New System.Drawing.Size(149, 6)
+        '
+        'VieJSToolStripMenuItem
+        '
+        Me.VieJSToolStripMenuItem.Name = "VieJSToolStripMenuItem"
+        Me.VieJSToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.VieJSToolStripMenuItem.Text = "Vue JS"
+        '
         'PHPSnippetsToolStripMenuItem
         '
-        Me.PHPSnippetsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PHPSnippetsToolStripMenuItem1})
+        Me.PHPSnippetsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PHPSnippetsToolStripMenuItem1, Me.ToolStripSeparator13, Me.MicroblogSystemToolStripMenuItem})
         Me.PHPSnippetsToolStripMenuItem.Name = "PHPSnippetsToolStripMenuItem"
         Me.PHPSnippetsToolStripMenuItem.Size = New System.Drawing.Size(90, 20)
         Me.PHPSnippetsToolStripMenuItem.Text = "PHP Snippets"
@@ -809,7 +823,7 @@ Partial Class Main
         'PHPSnippetsToolStripMenuItem1
         '
         Me.PHPSnippetsToolStripMenuItem1.Name = "PHPSnippetsToolStripMenuItem1"
-        Me.PHPSnippetsToolStripMenuItem1.Size = New System.Drawing.Size(152, 22)
+        Me.PHPSnippetsToolStripMenuItem1.Size = New System.Drawing.Size(170, 22)
         Me.PHPSnippetsToolStripMenuItem1.Text = "PHP Snippets"
         '
         'CGISnippetsToolStripMenuItem
@@ -835,46 +849,47 @@ Partial Class Main
         'HelpFileToolStripMenuItem
         '
         Me.HelpFileToolStripMenuItem.Name = "HelpFileToolStripMenuItem"
-        Me.HelpFileToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.HelpFileToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
         Me.HelpFileToolStripMenuItem.Text = "Help file"
         '
         'HTMLHelpToolStripMenuItem
         '
         Me.HTMLHelpToolStripMenuItem.Name = "HTMLHelpToolStripMenuItem"
-        Me.HTMLHelpToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.HTMLHelpToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
         Me.HTMLHelpToolStripMenuItem.Text = "W3Schools HTML guide"
         '
         'W3CHowToReferenceOnlineToolStripMenuItem
         '
         Me.W3CHowToReferenceOnlineToolStripMenuItem.Name = "W3CHowToReferenceOnlineToolStripMenuItem"
-        Me.W3CHowToReferenceOnlineToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.W3CHowToReferenceOnlineToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
         Me.W3CHowToReferenceOnlineToolStripMenuItem.Text = "W3Schools How To"
         '
         'CSSTricksOnlineToolStripMenuItem
         '
         Me.CSSTricksOnlineToolStripMenuItem.Name = "CSSTricksOnlineToolStripMenuItem"
-        Me.CSSTricksOnlineToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.CSSTricksOnlineToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
         Me.CSSTricksOnlineToolStripMenuItem.Text = "CSSTricks online"
         '
         'JavascriptKitToolStripMenuItem
         '
         Me.JavascriptKitToolStripMenuItem.Name = "JavascriptKitToolStripMenuItem"
-        Me.JavascriptKitToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.JavascriptKitToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
         Me.JavascriptKitToolStripMenuItem.Text = "Javascript Kit"
         '
         'ToolStripSeparator4
         '
         Me.ToolStripSeparator4.Name = "ToolStripSeparator4"
-        Me.ToolStripSeparator4.Size = New System.Drawing.Size(198, 6)
+        Me.ToolStripSeparator4.Size = New System.Drawing.Size(197, 6)
         '
         'AboutToolStripMenuItem
         '
         Me.AboutToolStripMenuItem.Name = "AboutToolStripMenuItem"
-        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
         Me.AboutToolStripMenuItem.Text = "About"
         '
         'StatusStrip1
         '
+        Me.StatusStrip1.BackColor = System.Drawing.Color.Transparent
         Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripStatusLabel1})
         Me.StatusStrip1.Location = New System.Drawing.Point(0, 800)
         Me.StatusStrip1.Name = "StatusStrip1"
@@ -890,6 +905,7 @@ Partial Class Main
         '
         'GroupBox1
         '
+        Me.GroupBox1.BackColor = System.Drawing.Color.Transparent
         Me.GroupBox1.Controls.Add(Me.Button30)
         Me.GroupBox1.Controls.Add(Me.Button29)
         Me.GroupBox1.Controls.Add(Me.Button28)
@@ -1078,7 +1094,7 @@ Partial Class Main
         'Button10
         '
         Me.Button10.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.Button10.Location = New System.Drawing.Point(328, 16)
+        Me.Button10.Location = New System.Drawing.Point(321, 16)
         Me.Button10.Name = "Button10"
         Me.Button10.Size = New System.Drawing.Size(40, 23)
         Me.Button10.TabIndex = 8
@@ -1088,7 +1104,7 @@ Partial Class Main
         'Button9
         '
         Me.Button9.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.Button9.Location = New System.Drawing.Point(252, 16)
+        Me.Button9.Location = New System.Drawing.Point(245, 16)
         Me.Button9.Name = "Button9"
         Me.Button9.Size = New System.Drawing.Size(40, 23)
         Me.Button9.TabIndex = 7
@@ -1098,7 +1114,7 @@ Partial Class Main
         'Button8
         '
         Me.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.Button8.Location = New System.Drawing.Point(290, 16)
+        Me.Button8.Location = New System.Drawing.Point(283, 16)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(40, 23)
         Me.Button8.TabIndex = 6
@@ -1178,7 +1194,8 @@ Partial Class Main
         'Panel1
         '
         Me.Panel1.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-            Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+                    Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.Panel1.BackColor = System.Drawing.Color.Transparent
         Me.Panel1.Controls.Add(Me.RoundedGroupBox1)
         Me.Panel1.Controls.Add(Me.RoundedGroupBox2)
         Me.Panel1.Location = New System.Drawing.Point(1, 117)
@@ -1188,13 +1205,13 @@ Partial Class Main
         '
         'RoundedGroupBox1
         '
-        Me.RoundedGroupBox1.BackgroundColor = System.Drawing.Color.White
-        Me.RoundedGroupBox1.BackgroundColorGradient = System.Drawing.Color.FromArgb(CType(CType(227, Byte), Integer), CType(CType(235, Byte), Integer), CType(CType(246, Byte), Integer))
+        Me.RoundedGroupBox1.BackgroundColor = System.Drawing.Color.Transparent
+        Me.RoundedGroupBox1.BackgroundColorGradient = System.Drawing.Color.Blue
         Me.RoundedGroupBox1.BackgroundGradientMode = RoundedGroupbox.RoundedGroupBox.GroupBoxGradientMode.Vertical
         Me.RoundedGroupBox1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(178, Byte), Integer), CType(CType(227, Byte), Integer))
         Me.RoundedGroupBox1.BorderWidth = 1.0!
         Me.RoundedGroupBox1.Caption = ""
-        Me.RoundedGroupBox1.CaptionBackColor = System.Drawing.Color.FromArgb(CType(CType(194, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.RoundedGroupBox1.CaptionBackColor = System.Drawing.Color.Blue
         Me.RoundedGroupBox1.CaptionHeight = 25
         Me.RoundedGroupBox1.CaptionPadding = New System.Windows.Forms.Padding(20)
         Me.RoundedGroupBox1.CaptionVisible = True
@@ -1202,10 +1219,12 @@ Partial Class Main
         Me.RoundedGroupBox1.Controls.Add(Me.ListBox1)
         Me.RoundedGroupBox1.CornerRadius = 5
         Me.RoundedGroupBox1.Corners = CType((((RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.NorthWest Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.NorthEast) _
-            Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthEast) _
-            Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthWest), RoundedGroupbox.RoundedGroupBox.GroupBoxCorners)
+                    Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthEast) _
+                    Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthWest), RoundedGroupbox.RoundedGroupBox.GroupBoxCorners)
         Me.RoundedGroupBox1.DropShadowThickness = 3
         Me.RoundedGroupBox1.DropShadowVisible = True
+        Me.RoundedGroupBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.RoundedGroupBox1.ForeColor = System.Drawing.Color.White
         Me.RoundedGroupBox1.Location = New System.Drawing.Point(6, 22)
         Me.RoundedGroupBox1.MinimumSize = New System.Drawing.Size(10, 10)
         Me.RoundedGroupBox1.Name = "RoundedGroupBox1"
@@ -1239,13 +1258,13 @@ Partial Class Main
         '
         'RoundedGroupBox2
         '
-        Me.RoundedGroupBox2.BackgroundColor = System.Drawing.Color.White
-        Me.RoundedGroupBox2.BackgroundColorGradient = System.Drawing.Color.FromArgb(CType(CType(227, Byte), Integer), CType(CType(235, Byte), Integer), CType(CType(246, Byte), Integer))
+        Me.RoundedGroupBox2.BackgroundColor = System.Drawing.Color.Transparent
+        Me.RoundedGroupBox2.BackgroundColorGradient = System.Drawing.Color.Blue
         Me.RoundedGroupBox2.BackgroundGradientMode = RoundedGroupbox.RoundedGroupBox.GroupBoxGradientMode.Vertical
         Me.RoundedGroupBox2.BorderColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(178, Byte), Integer), CType(CType(227, Byte), Integer))
         Me.RoundedGroupBox2.BorderWidth = 1.0!
         Me.RoundedGroupBox2.Caption = ""
-        Me.RoundedGroupBox2.CaptionBackColor = System.Drawing.Color.FromArgb(CType(CType(194, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.RoundedGroupBox2.CaptionBackColor = System.Drawing.Color.Blue
         Me.RoundedGroupBox2.CaptionHeight = 25
         Me.RoundedGroupBox2.CaptionPadding = New System.Windows.Forms.Padding(20)
         Me.RoundedGroupBox2.CaptionVisible = True
@@ -1256,10 +1275,12 @@ Partial Class Main
         Me.RoundedGroupBox2.Controls.Add(Me.ListBox2)
         Me.RoundedGroupBox2.CornerRadius = 5
         Me.RoundedGroupBox2.Corners = CType((((RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.NorthWest Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.NorthEast) _
-            Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthEast) _
-            Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthWest), RoundedGroupbox.RoundedGroupBox.GroupBoxCorners)
+                    Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthEast) _
+                    Or RoundedGroupbox.RoundedGroupBox.GroupBoxCorners.SouthWest), RoundedGroupbox.RoundedGroupBox.GroupBoxCorners)
         Me.RoundedGroupBox2.DropShadowThickness = 3
         Me.RoundedGroupBox2.DropShadowVisible = True
+        Me.RoundedGroupBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.RoundedGroupBox2.ForeColor = System.Drawing.Color.White
         Me.RoundedGroupBox2.Location = New System.Drawing.Point(6, 335)
         Me.RoundedGroupBox2.MinimumSize = New System.Drawing.Size(10, 10)
         Me.RoundedGroupBox2.Name = "RoundedGroupBox2"
@@ -1283,7 +1304,7 @@ Partial Class Main
         '
         Me.TextBox2.Location = New System.Drawing.Point(5, 45)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(178, 20)
+        Me.TextBox2.Size = New System.Drawing.Size(178, 23)
         Me.TextBox2.TabIndex = 4
         '
         'Label2
@@ -1300,6 +1321,7 @@ Partial Class Main
         'Button13
         '
         Me.Button13.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button13.ForeColor = System.Drawing.Color.White
         Me.Button13.Location = New System.Drawing.Point(5, 289)
         Me.Button13.Name = "Button13"
         Me.Button13.Size = New System.Drawing.Size(178, 23)
@@ -1311,6 +1333,7 @@ Partial Class Main
         '
         Me.ListBox2.AllowDrop = True
         Me.ListBox2.FormattingEnabled = True
+        Me.ListBox2.ItemHeight = 16
         Me.ListBox2.Location = New System.Drawing.Point(5, 71)
         Me.ListBox2.Name = "ListBox2"
         Me.ListBox2.ScrollAlwaysVisible = True
@@ -1330,8 +1353,8 @@ Partial Class Main
         'TabControl1
         '
         Me.TabControl1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-            Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+                    Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TabControl1.Controls.Add(Me.TabPage1)
         Me.TabControl1.Location = New System.Drawing.Point(205, 117)
         Me.TabControl1.Name = "TabControl1"
@@ -1341,7 +1364,7 @@ Partial Class Main
         '
         'TabPage1
         '
-        Me.TabPage1.BackColor = System.Drawing.Color.FromArgb(CType(CType(194, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.TabPage1.BackColor = System.Drawing.Color.Blue
         Me.TabPage1.Controls.Add(Me.RichTextBox1)
         Me.TabPage1.Location = New System.Drawing.Point(4, 22)
         Me.TabPage1.Name = "TabPage1"
@@ -1435,7 +1458,9 @@ Partial Class Main
         '
         'GroupBox3
         '
+        Me.GroupBox3.BackColor = System.Drawing.Color.Transparent
         Me.GroupBox3.Controls.Add(Me.Button36)
+        Me.GroupBox3.Controls.Add(Me.Button43)
         Me.GroupBox3.Controls.Add(Me.Button35)
         Me.GroupBox3.Controls.Add(Me.Button34)
         Me.GroupBox3.Controls.Add(Me.Button33)
@@ -1443,7 +1468,7 @@ Partial Class Main
         Me.GroupBox3.Controls.Add(Me.Button31)
         Me.GroupBox3.Location = New System.Drawing.Point(1, 70)
         Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(318, 41)
+        Me.GroupBox3.Size = New System.Drawing.Size(367, 41)
         Me.GroupBox3.TabIndex = 6
         Me.GroupBox3.TabStop = False
         Me.GroupBox3.Text = "CSS definitions"
@@ -1457,6 +1482,16 @@ Partial Class Main
         Me.Button36.TabIndex = 27
         Me.Button36.Text = "AFTER"
         Me.Button36.UseVisualStyleBackColor = True
+        '
+        'Button43
+        '
+        Me.Button43.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button43.Location = New System.Drawing.Point(305, 15)
+        Me.Button43.Name = "Button43"
+        Me.Button43.Size = New System.Drawing.Size(55, 23)
+        Me.Button43.TabIndex = 28
+        Me.Button43.Text = "FOCUS"
+        Me.Button43.UseVisualStyleBackColor = True
         '
         'Button35
         '
@@ -1510,6 +1545,7 @@ Partial Class Main
         '
         'GroupBox4
         '
+        Me.GroupBox4.BackColor = System.Drawing.Color.Transparent
         Me.GroupBox4.Controls.Add(Me.Button27)
         Me.GroupBox4.Controls.Add(Me.Button26)
         Me.GroupBox4.Controls.Add(Me.Button25)
@@ -1524,7 +1560,7 @@ Partial Class Main
         Me.GroupBox4.Controls.Add(Me.Button37)
         Me.GroupBox4.Location = New System.Drawing.Point(417, 70)
         Me.GroupBox4.Name = "GroupBox4"
-        Me.GroupBox4.Size = New System.Drawing.Size(778, 41)
+        Me.GroupBox4.Size = New System.Drawing.Size(754, 41)
         Me.GroupBox4.TabIndex = 7
         Me.GroupBox4.TabStop = False
         Me.GroupBox4.Text = "Form elements"
@@ -1649,34 +1685,25 @@ Partial Class Main
         Me.Button37.Text = "BUTTON"
         Me.Button37.UseVisualStyleBackColor = True
         '
-        'Button43
+        'ToolStripSeparator13
         '
-        Me.Button43.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.Button43.Location = New System.Drawing.Point(306, 85)
-        Me.Button43.Name = "Button43"
-        Me.Button43.Size = New System.Drawing.Size(55, 23)
-        Me.Button43.TabIndex = 28
-        Me.Button43.Text = "Nth"
-        Me.Button43.UseVisualStyleBackColor = True
+        Me.ToolStripSeparator13.Name = "ToolStripSeparator13"
+        Me.ToolStripSeparator13.Size = New System.Drawing.Size(167, 6)
         '
-        'ToolStripSeparator12
+        'MicroblogSystemToolStripMenuItem
         '
-        Me.ToolStripSeparator12.Name = "ToolStripSeparator12"
-        Me.ToolStripSeparator12.Size = New System.Drawing.Size(149, 6)
-        '
-        'VieJSToolStripMenuItem
-        '
-        Me.VieJSToolStripMenuItem.Name = "VieJSToolStripMenuItem"
-        Me.VieJSToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
-        Me.VieJSToolStripMenuItem.Text = "Vue JS"
+        Me.MicroblogSystemToolStripMenuItem.Name = "MicroblogSystemToolStripMenuItem"
+        Me.MicroblogSystemToolStripMenuItem.Size = New System.Drawing.Size(170, 22)
+        Me.MicroblogSystemToolStripMenuItem.Text = "Microblog System"
         '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.SystemColors.Control
+        Me.BackColor = System.Drawing.SystemColors.Highlight
+        Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(1334, 822)
-        Me.Controls.Add(Me.Button43)
         Me.Controls.Add(Me.GroupBox4)
         Me.Controls.Add(Me.GroupBox3)
         Me.Controls.Add(Me.TabControl1)
@@ -1685,6 +1712,7 @@ Partial Class Main
         Me.Controls.Add(Me.StatusStrip1)
         Me.Controls.Add(Me.MenuStrip1)
         Me.DoubleBuffered = True
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.MinimumSize = New System.Drawing.Size(1200, 850)
@@ -1897,5 +1925,7 @@ Partial Class Main
     Friend WithEvents Button43 As System.Windows.Forms.Button
     Friend WithEvents ToolStripSeparator12 As System.Windows.Forms.ToolStripSeparator
     Friend WithEvents VieJSToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ToolStripSeparator13 As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents MicroblogSystemToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 
 End Class

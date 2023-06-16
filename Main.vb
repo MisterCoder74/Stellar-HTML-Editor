@@ -789,7 +789,7 @@ Public Class Main
             Do
                 With dlg
                     .Title = "Save HTML File"
-                    .Filter = "HTML file (*.html)|*.html|HTML file (*.htm)|*.htm|JS file (*.js)|*.js|JSON file (*.json)|*.json|PHP file (*.php)|*.php"
+                    .Filter = "HTML file (*.html)|*.html|HTML file (*.htm)|*.htm|CSS file (*.css)|*.css|JS file (*.js)|*.js|JSON file (*.json)|*.json|PHP file (*.php)|*.php"
                     .AddExtension = True
                     .DefaultExt = "html"
 
@@ -1443,7 +1443,7 @@ Public Class Main
     End Sub
 
     Private Sub Button43_Click(sender As System.Object, e As System.EventArgs) Handles Button43.Click
-        RichTextBox1.SelectedText = "::nth-child()"
+        RichTextBox1.SelectedText = ":focus"
     End Sub
 
     Private Sub VieJSToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles VieJSToolStripMenuItem.Click
@@ -1451,6 +1451,15 @@ Public Class Main
             Dim fileName = System.IO.Path.GetFileName(foundFile).ToString
             templatebrowser.ListBox1.Items.Add(fileName)
             templatebrowser.TextBox2.Text = "templates/javascript/vue"
+        Next
+        templatebrowser.Show()
+    End Sub
+
+    Private Sub MicroblogSystemToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MicroblogSystemToolStripMenuItem.Click
+        For Each foundFile As String In My.Computer.FileSystem.GetFiles("templates/php/microblog")
+            Dim fileName = System.IO.Path.GetFileName(foundFile).ToString
+            templatebrowser.ListBox1.Items.Add(fileName)
+            templatebrowser.TextBox2.Text = "templates/php/microblog"
         Next
         templatebrowser.Show()
     End Sub

@@ -1,18 +1,22 @@
 STELLAR HTML EDITOR 
 What's new file.
-v.1.7 - September 2022
+v.1.7 - June 2023
 
 
 New features:
-- 
-
+- Vue basic scripts added
+- CSS save added
+- PHP microblog system added
 
 Major changes:
 - More HTML buttons added (section, main, aside)
-- More CSS peudo added (:nth-child, )
+- More CSS pseudo added (:focus)
+- More PHP scripts added
+- GUI color scheme changed, background image added
 
 Minor changes:
 - Minor GUI changes
+- Project customization for Vivacity Design credits
 
 Minor bugs solved:
 - Save as in blank page error

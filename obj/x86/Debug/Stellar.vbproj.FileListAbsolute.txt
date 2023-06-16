@@ -79,3 +79,29 @@ C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stella
 C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.templatebrowser.resources
 C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.websites.resources
 C:\VB NET\VISUAL BASIC PROJECTS\Stellar HTML Editor\Stellar\obj\x86\Debug\Stellar.vbproj.GenerateResource.Cache
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.exe
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.xml
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.pdb
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\bin\Debug\Stellar.exe
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\bin\Debug\Stellar.pdb
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\bin\Debug\Stellar.xml
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\bin\Debug\RoundedGroupbox.pdb
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\bin\Debug\RoundedGroupbox.xml
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.vbprojResolveAssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.about.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.bscolorclasses.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.colorcharts.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.datalistcreator.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.Fontwizard.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.formcreator.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.iframecreator.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.imageadd.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.linkadd.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.listcreator.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.Main.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.Resources.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.replace.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.tableadd.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.templatebrowser.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.websites.resources
+C:\Users\Utente\Documents\GitHub\Stellar-HTML-Editor\obj\x86\Debug\Stellar.vbproj.GenerateResource.Cache

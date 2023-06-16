@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Controllare i valori degli attributi dell'assembly
 
 <Assembly: AssemblyTitle("Stellar HTML Editor")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Stellar Inc")> 
-<Assembly: AssemblyProduct("Stellar HTML Editor")> 
-<Assembly: AssemblyCopyright("Copyright © Alessandro Demontis 2021")> 
+<Assembly: AssemblyDescription("Stellar HTML Editor 1.7")> 
+<Assembly: AssemblyCompany("Vivacity Design")> 
+<Assembly: AssemblyProduct("Stellar HTML Editor 1.7")> 
+<Assembly: AssemblyCopyright("Copyright © Alessandro Demontis 2021-2023")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' utilizzando l'asterisco (*) come descritto di seguito:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.6.0.0")> 
-<Assembly: AssemblyFileVersion("1.6.0.0")> 
+<Assembly: AssemblyVersion("1.7.0.0")> 
+<Assembly: AssemblyFileVersion("1.7.0.0")> 

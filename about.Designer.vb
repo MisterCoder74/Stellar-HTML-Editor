@@ -55,11 +55,12 @@ Partial Class about
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(120, 41)
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(120, 39)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(121, 13)
+        Me.Label2.Size = New System.Drawing.Size(103, 15)
         Me.Label2.TabIndex = 2
-        Me.Label2.Text = "v. 1.7 - September 2022"
+        Me.Label2.Text = "v. 1.7 - June 2023"
         '
         'Label3
         '
@@ -75,19 +76,19 @@ Partial Class about
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(120, 76)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(188, 13)
+        Me.Label4.Size = New System.Drawing.Size(186, 13)
         Me.Label4.TabIndex = 4
-        Me.Label4.Text = "A. Demontis - ademontis@hotmail.com"
+        Me.Label4.Text = "A. Demontis - info@vivacitydesign.net"
         '
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
         Me.LinkLabel1.Location = New System.Drawing.Point(120, 95)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(275, 13)
+        Me.LinkLabel1.Size = New System.Drawing.Size(150, 13)
         Me.LinkLabel1.TabIndex = 5
         Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "https://ademontis.wixsite.com/vbnetprojects/stellareditor"
+        Me.LinkLabel1.Text = "http://www.vivacitydesign.net"
         '
         'about
         '
